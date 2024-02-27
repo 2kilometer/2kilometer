@@ -1,12 +1,18 @@
-<div align="center">
-  <h2>🙆‍♀️ Hello, I'm KyeongMin 🙆‍♀️</h2>
-  <cite>"User-Data-based로 데이터 바라보기"</cite>
-</div>
-<br>
+<h1 align="center">🙆‍♀️ Hello, I'm KyeongMin 🙆‍♀️</h1>
 
+<pre align="center">
+  <b>" User & Data-based로 데이터 바라보기 "</b>
+
+  ↓
+  
+  [python] def <i>name_</i>KyeongMin<b>( user, data )</b>:
+  return <b>DataAnalysis</b>
+</pre>
+
+<br><br>
 
 <div align="center">
-  <h3> Tech Stack </h3>
+  <h2>>> Tech Stack </h2>
   <img src="https://img.shields.io/badge/python-F6F8FA.svg?style=flat&logo=python&logoColor=3776AB" /> 
   <img src="https://img.shields.io/badge/mariadb-F6F8FA.svg?style=flat&logo=mariadb&logoColor=003545" /> 
   <img src="https://img.shields.io/badge/spark-F6F8FA.svg?style=flat&logo=apachespark&logoColor=E25A1C" /> 
@@ -31,6 +37,60 @@
 
 
 
+<br><br>
 
-
+<div align="center">
+  <h2>>> Projects</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <b>헬스케어 데이터 운영계</b>
+        <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">🔗</a>
+      </td>
+      <td align="center">
+        <b>졸음운전 감지 모델</b>
+        <a href="">🔗</a>
+      </td>
+      <td align="center">
+        <b>GIS 호감도 분석</b>
+        <a href="https://github.com/2kilometer/BusanBD_mini3">🔗</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%"><a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
+        <img src="images/BusanBD_final.jpg"></a>
+      </td>
+      <td width="30%"><a href="">
+        <img src="images/BDIA_DevContest.png"></a>
+      </td>
+      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini3">
+        <img src="images/BusanBD_mini3.png"></a>
+      </td>      
+    </tr>
+    <tr>
+      <td align="center">
+        <b>건강기능식품 가설검증 분석</b>
+        <a href="https://github.com/2kilometer/BusanBD_mini2">🔗</a>
+      </td>
+      <td align="center">
+        <b>OpenAPI 해양정보 수집 및 통합</b>
+        <a href="https://github.com/2kilometer/BusanBD_mini2">🔗</a>
+      </td>
+      <td align="center">
+        &nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini2">
+        <img src="images/BusanBD_mini2.jpg"></a>
+      </td>
+      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini1">
+        <img src="images/BusanBD_mini1.jpg"></a>
+      </td>
+      <td width="30%">
+        &nbsp;
+      </td>      
+    </tr>
+  </table>
+</div>
 
