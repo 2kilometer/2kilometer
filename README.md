@@ -1,8 +1,6 @@
 <h1 align="center">🙆‍♀️ Hello, I'm KyeongMin 🙆‍♀️</h1>
-
+<h4 align="center">" User & Data-based로 데이터 바라보기 "</h4>
 <pre align="center">
-  <b>" User & Data-based로 데이터 바라보기 "</b>
-
   ↓
   
   [python] def <i>name_</i>KyeongMin<b>( user, data )</b>:
@@ -36,8 +34,7 @@
 </div>
 
 
-
-<br><br>
+<br><br><br>
 
 <div align="center">
   <h2>>> Projects</h2>
@@ -94,3 +91,10 @@
   </table>
 </div>
 
+<br><br><br>
+
+<div align="center">
+  <h2>>> Study</h2>
+  <li>Coding Test 소스코드 정리 <a href="https://github.com/2kilometer/CodingTest">🔗</a></li>
+</div>
+<br><br>
