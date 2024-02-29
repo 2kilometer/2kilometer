@@ -2,8 +2,8 @@
 <h4 align="center">" User & Data-based로 데이터 바라보기 "</h4>
 <pre align="center">
   ↓
-  
-  [python] def <i>name_</i>KyeongMin<b>( user, data )</b>:
+  <br>
+  [python] def <i>name_KyeongMin</i><b>( user, data )</b>:
   return <b>DataAnalysis</b>
 </pre>
 
@@ -46,7 +46,7 @@
       </td>
       <td align="center">
         <b>졸음운전 감지 모델</b>
-        <a href="">🔗</a>
+        <a href="https://github.com/2kilometer/BDIA_DevContest">🔗</a>
       </td>
       <td align="center">
         <b>GIS 호감도 분석</b>
@@ -57,7 +57,7 @@
       <td width="30%"><a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
         <img src="images/BusanBD_final.jpg"></a>
       </td>
-      <td width="30%"><a href="">
+      <td width="30%"><a href="https://github.com/2kilometer/BDIA_DevContest">
         <img src="images/BDIA_DevContest.png"></a>
       </td>
       <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini3">
