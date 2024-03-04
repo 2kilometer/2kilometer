@@ -1,9 +1,9 @@
 <h1 align="center">🙆‍♀️ Hello, I'm KyeongMin 🙆‍♀️</h1>
-<h4 align="center">" User & Data-based로 데이터 바라보기 "</h4>
+<h4 align="center">" Target & Data-based로 데이터 바라보기 "</h4>
 <pre align="center">
   ↓
   <br>
-  [python] def <i>name_KyeongMin</i><b>( user, data )</b>:
+  [python] def <i>name_KyeongMin</i><b>( target, data )</b>:
   return <b>DataAnalysis</b>
 </pre>
 
