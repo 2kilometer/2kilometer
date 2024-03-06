@@ -49,7 +49,7 @@
     <tr>
       <td align="center">
         <b>영양제 복용행태 분석</b>
-        <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">🔗</a>
+        <a href="https://github.com/2kilometer/BusanBD_final">🔗</a>
       </td>
       <td align="center">
         <b>GIS데이터 활용, 이용자 분석</b>
@@ -61,7 +61,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%"><a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
+      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_final">
         <img src="images/BusanBD_final.jpg"></a>
       </td>
       <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini3">
