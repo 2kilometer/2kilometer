@@ -1,8 +1,14 @@
-<h1 align="center">🙆‍♀️ Hello, I'm KyeongMin 🙆‍♀️</h1>
-<h4 align="center">" Target & Data-based로 데이터 바라보기 "</h4>
+<div align="center">
+  <code>Hello, I'm KyeongMin</code></div>
+<h3 align="center">" Target & Data-based로 데이터 바라보기 "</h3>
+<li align="center">2번의 브랜딩으로 Business Value Chain 이해</li>
+<li align="center">3가지 Role 경험으로 다양한 직군과의 소통 가능</li>
+<div align="center"><i>(Data Anlayst, Marketer, Designer)</i></div>
+
+<br>
+
 <pre align="center">
   ↓
-  <br>
   [python] def <i>name_KyeongMin</i><b>( target, data )</b>:
   return <b>DataAnalysis</b>
 </pre>
@@ -38,6 +44,59 @@
 
 <div align="center">
   <h2>>> Projects</h2>
+  <pre><strong>Analysis 분석 프로젝트</strong></pre>
+  <table>
+    <tr>
+      <td align="center">
+        <b>영양제 복용행태 분석</b>
+        <a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">🔗</a>
+      </td>
+      <td align="center">
+        <b>GIS데이터 활용, 이용자 분석</b>
+        <a href="https://github.com/2kilometer/BusanBD_mini3">🔗</a>
+      </td>
+      <td align="center">
+        <b>건강기능식품 가설검증 분석</b>
+        <a href="https://github.com/2kilometer/BusanBD_mini2">🔗</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%"><a href="https://github.com/FINAL-BUSAN-2/DataPointOfView">
+        <img src="images/BusanBD_final.jpg"></a>
+      </td>
+      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini3">
+        <img src="images/BusanBD_mini3.png"></a>
+      </td>
+      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini2">
+        <img src="images/BusanBD_mini2.jpg"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>OpenAPI 해양정보 수집 및 통합</b>
+        <a href="https://github.com/2kilometer/BusanBD_mini2">🔗</a>
+      </td>
+      <td align="center">
+        &nbsp;
+      </td>
+      <td align="center">
+        &nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini1">
+        <img src="images/BusanBD_mini1.jpg"></a>
+      </td>
+      <td width="30%">
+        &nbsp;
+      </td>
+      <td width="30%">
+        &nbsp;
+      </td>
+    </tr>
+  </table>
+  
+  <pre><strong>Service 개발 프로젝트</strong></pre>
   <table>
     <tr>
       <td align="center">
@@ -49,8 +108,7 @@
         <a href="https://github.com/2kilometer/BDIA_DevContest">🔗</a>
       </td>
       <td align="center">
-        <b>GIS 호감도 분석</b>
-        <a href="https://github.com/2kilometer/BusanBD_mini3">🔗</a>
+        &nbsp;
       </td>
     </tr>
     <tr>
@@ -60,33 +118,9 @@
       <td width="30%"><a href="https://github.com/2kilometer/BDIA_DevContest">
         <img src="images/BDIA_DevContest.png"></a>
       </td>
-      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini3">
-        <img src="images/BusanBD_mini3.png"></a>
-      </td>      
-    </tr>
-    <tr>
-      <td align="center">
-        <b>건강기능식품 가설검증 분석</b>
-        <a href="https://github.com/2kilometer/BusanBD_mini2">🔗</a>
-      </td>
-      <td align="center">
-        <b>OpenAPI 해양정보 수집 및 통합</b>
-        <a href="https://github.com/2kilometer/BusanBD_mini2">🔗</a>
-      </td>
-      <td align="center">
-        &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini2">
-        <img src="images/BusanBD_mini2.jpg"></a>
-      </td>
-      <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini1">
-        <img src="images/BusanBD_mini1.jpg"></a>
-      </td>
       <td width="30%">
         &nbsp;
-      </td>      
+      </td>
     </tr>
   </table>
 </div>
