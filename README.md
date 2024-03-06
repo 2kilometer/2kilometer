@@ -74,7 +74,7 @@
     <tr>
       <td align="center">
         <b>OpenAPI 해양정보 수집 및 통합</b>
-        <a href="https://github.com/2kilometer/BusanBD_mini2">🔗</a>
+        <a href="https://github.com/2kilometer/BusanBD_mini1">🔗</a>
       </td>
       <td align="center">
         &nbsp;
