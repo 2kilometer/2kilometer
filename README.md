@@ -1,7 +1,7 @@
 <div align="center">
   <code>Hello, I'm KyeongMin</code></div>
 <h3 align="center">" Target & Data-based로 데이터 바라보기 "</h3>
-<li align="center">2번의 브랜딩으로 Business Value Chain 이해</li>
+<li align="center">2번의 브랜딩으로 체득한 Target & Data 기반 의사결정</li>
 <li align="center">3가지 Role 경험으로 다양한 직군과의 소통 가능</li>
 <div align="center"><i>(Data Anlayst, Marketer, Designer)</i></div>
 
