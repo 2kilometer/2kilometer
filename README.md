@@ -77,7 +77,8 @@
         <a href="https://github.com/2kilometer/BusanBD_mini1">🔗</a>
       </td>
       <td align="center">
-        &nbsp;
+        <b>OpenAPI 기업재무데이터 분석</b>
+        <a href="https://github.com/2kilometer/personal_project">🔗</a>
       </td>
       <td align="center">
         &nbsp;
@@ -87,8 +88,8 @@
       <td width="30%"><a href="https://github.com/2kilometer/BusanBD_mini1">
         <img src="images/BusanBD_mini1.jpg"></a>
       </td>
-      <td width="30%">
-        &nbsp;
+      <td align="center"><a href="https://github.com/2kilometer/personal_project">
+        <img src="images/EfficiencyAnalysis.jpg" height="300"></a>
       </td>
       <td width="30%">
         &nbsp;
