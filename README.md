@@ -44,6 +44,11 @@
 
 <div align="center">
   <h2>>> Projects</h2>
+  
+  ※ <a href="">사진</a> 및 <a href="">🔗</a>를 누르시면 해당 프로젝트 Repository로 이동합니다.
+
+  <br>
+  
   <pre><strong>Analysis 분석 프로젝트</strong></pre>
   <table>
     <tr>
