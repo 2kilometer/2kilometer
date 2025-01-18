@@ -52,19 +52,30 @@ I believe that understanding the intersection of **💰business, 💻technology,
 
 ⚙️ **Service Projects**
 
-- 취준생을 위한 AI 기업 인사이트 마켓 서비스 [site](https://aim-sniper.com/) /  [repo](https://github.com/2kilometer/AIM-Sniper-Project)
-- 헬스케어 데이터 운영계 [repo](https://github.com/FINAL-BUSAN-2/DataPointOfView)
-- 졸음운전 감지 모델 [repo](https://github.com/2kilometer/BDIA_DevContest)
+- **취준생을 위한 AI 기업 인사이트 마켓 서비스**
+  - project : Djanog + Vue + FastAPI + Local Deep Learning Server + AWS [repo](https://github.com/2kilometer/AIM-Sniper-Project)
+  - [🌐website](https://aim-sniper.com/) → ✨NU(New Users) : 110 
+  
+- **헬스케어 데이터 운영계**
+  - project : Flask + React Native + FastAPI + Colab Deep Learning Server + AWS [repo](https://github.com/FINAL-BUSAN-2/DataPointOfView)
+  - Prize : Grand Prize (at 2023 Industry-Academic Cooperation Final Project Competition)
+- **눈 개폐 비율 기반 졸음 인식 서비스**
+  - project : local [repo](https://github.com/2kilometer/BDIA_DevContest)
+  - Prize: Best Tech (at 2023 BDIA Hackaton)
 
 <br>
 
-📊 **Data Analysis Projects**
+📊 **Data Projects**
 
--  영양제 복용행태 분석 [repo](https://github.com/2kilometer/BusanBD_final)
--  GIS데이터 활용, 이용자 분석 [repo](https://github.com/2kilometer/BusanBD_mini3)
--  건강기능식품 가설검증 분석 [repo](https://github.com/2kilometer/BusanBD_mini2)
--  해양정보 수집 및 통합 [repo](https://github.com/2kilometer/BusanBD_mini1)
--  기업재무데이터 분석 [repo](https://github.com/2kilometer/personal_project)
+- LG AImers Hackaton [제품 이상 여부 판별 모델](https://github.com/ih9511/LGAimersHackerton_1)
+  - F1 score 21% over Baseline model
+- Kaggle [Classification with an Academic Success Dataset](https://github.com/ih9511/Kaggle-Classification-with-an-Academic-Success-Dataset)
+  - 622 / 2684 (top 24% with accuracy 83.48%)
+- 영양제 복용행태 분석 [repo](https://github.com/2kilometer/BusanBD_final)
+- GIS데이터 활용, 이용자 분석 [repo](https://github.com/2kilometer/BusanBD_mini3)
+- 건강기능식품 가설검증 분석 [repo](https://github.com/2kilometer/BusanBD_mini2)
+- 해양정보 수집 및 통합 [repo](https://github.com/2kilometer/BusanBD_mini1)
+- 기업재무데이터 분석 [repo](https://github.com/2kilometer/personal_project)
 
 <br><br>
 
