@@ -68,7 +68,6 @@ I believe that understanding the intersection of **💰business, 💻technology,
 📊 **Data Projects**
 
 - LG AImers Hackaton [제품 이상 여부 판별 모델](https://github.com/ih9511/LGAimersHackerton_1)
-  - F1 score 21% over Baseline model
 - Kaggle [Classification with an Academic Success Dataset](https://github.com/ih9511/Kaggle-Classification-with-an-Academic-Success-Dataset)
   - 622 / 2684 (top 24% with accuracy 83.48%)
 - 영양제 복용행태 분석 [repo](https://github.com/2kilometer/BusanBD_final)
